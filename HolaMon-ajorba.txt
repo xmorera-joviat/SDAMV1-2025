@@ -2,4 +2,8 @@
 
 canvis realitzats al dia 11 de març de 2025 de l'era actual
 
+<<<<<<< HEAD
 Hola, el Raúl ha estat aquí.
+=======
+tdetelinov
+>>>>>>> 6ff14284e9043449b104790107282f7689118539
