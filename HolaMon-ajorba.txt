@@ -1,5 +1,15 @@
 1234567890
 
+<<<<<<< HEAD
 canvis realitzats al dia 11 de març de 2025 de l'era actu
 
 Pau Palencia Was been here
+=======
+canvis realitzats al dia 11 de març de 2025 de l'era actual
+
+<<<<<<< HEAD
+Hola, el Raúl ha estat aquí.
+=======
+tdetelinov
+>>>>>>> 6ff14284e9043449b104790107282f7689118539
+>>>>>>> 7451cbcdabd99919dbe1fe88d503db46fd6f0518
