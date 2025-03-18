@@ -1,11 +1,16 @@
 <<<<<<< HEAD
+
 Pau Palencia Was been here
 =======
+
 Holaquetal?
 
 Hola, el Raúl ha estat aquí.
+
 >>>>>>> 69d2204eea6c7f37314173c5c9503e7ee61b36da
 
 pau ets massa guapu
+
 PAU CAMBIA EL NOMBRE DEL TEXTO QUE SOLO TOCA LOS COJ**NES CON LAS DOS P EN MAYUSUCLA 
+
 ATT: TOMAS EN EL MEDICO
