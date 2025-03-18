@@ -9,3 +9,8 @@ Hola, el Raúl ha estat aquí.
 xexu ha estat aqui
 
 Us dislexico estubo aqui
+<<<<<<< HEAD
+
+=======
+Con la mano izquierda
+>>>>>>> 4ec602f52b245169f6e61529752900d3766e0235
