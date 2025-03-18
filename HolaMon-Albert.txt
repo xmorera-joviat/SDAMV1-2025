@@ -6,3 +6,5 @@ toomaass a ido a la analitica
 Hola, el Raúl ha estat aquí.
 
 xexu ha estat aqui
+
+IRLdePingPongSimulator es malo FD:DS
