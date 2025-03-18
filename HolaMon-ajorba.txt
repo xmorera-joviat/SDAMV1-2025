@@ -13,3 +13,5 @@ Hola, el Raúl ha estat aquí.
 tdetelinov
 >>>>>>> 6ff14284e9043449b104790107282f7689118539
 >>>>>>> 7451cbcdabd99919dbe1fe88d503db46fd6f0518
+
+tomas a estado en el medico
