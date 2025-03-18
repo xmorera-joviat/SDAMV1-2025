@@ -1,7 +1,4 @@
 Holamon JoanEstevez
-<<<<<<< HEAD
-
-Hola, el Raúl ha estat aquí.
-=======
 buenos dias estoy en el medico att tomas
->>>>>>> 696f8bdefa9599ca0afbe14073bb05eee0759b5e
+
+xexu ha estat aqui
