@@ -6,4 +6,8 @@ Pau Palencia Was been here
 
 Hola, el Raúl ha estat aquí.
 
-xexu ha estat aqui
+<<<<<<< HEAD
+xexu ha estat aquii
+=======
+Para que te diviertas, David ;) https://www.youtube.com/watch?v=rho4idsl5hI
+>>>>>>> 1151ee2bf412ba85b27cd8bf00adcb4ca9514147
